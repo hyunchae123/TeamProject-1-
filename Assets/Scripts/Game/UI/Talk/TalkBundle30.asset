@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08e7fa7ab613344fa9fdb7ed6a803ea, type: 3}
+  m_Name: TalkBundle30
+  m_EditorClassIdentifier: 
+  talks:
+  - name: "\uC708\uB514"
+    talk: "\uC6D0\uC7A5\uC774 \uB9D0\uD55C \uB2E4\uB9AC\uAC00 \uC5EC\uAE34\uAC00
+      \uBCF8\uB370? \uC774\uBD10\uC694 \uB4E4 \uAD1C\uCC2E\uC544\uC694?"
+    spriteID: Talker
+  - name: "\uB9C8\uC744 \uC8FC\uBBFC"
+    talk: "\uB124 \uAD1C\uCC2E\uC2B5\uB2C8\uB2E4. \uC800\uD76C\uB97C \uAD6C\uD574\uC8FC\uC2DC\uB2E4\uB2C8,
+      \uC601\uC6C5\uC774\uC2ED\uB2C8\uB2E4!"
+    spriteID: Human1
+  - name: "\uC708\uB514"
+    talk: "\uD5E4\uD5E4. \uB0B4\uAC00 \uC880 \uC601\uC6C5\uC2A4\uB7FD\uAE34 \uD558\uC9C0.
+      \uC790 \uC774\uC81C \uB9C8\uC744 \uC0AC\uB78C\uB4E4\uB3C4 \uAD6C\uD588\uACA0\uB2E4,
+      \uC5B4\uC11C \uC5D0\uBC00\uB9AC\uC5D0\uAC8C \uAC00\uBCFC\uAE4C?"
+    spriteID: Talker3

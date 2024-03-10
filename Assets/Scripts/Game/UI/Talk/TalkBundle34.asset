@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08e7fa7ab613344fa9fdb7ed6a803ea, type: 3}
+  m_Name: TalkBundle34
+  m_EditorClassIdentifier: 
+  talks:
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uB124 \uC774 \uB140\uC11D! \uB124 \uB188\uC774 \uAC10\uD788 \uC6B0\uB9AC
+      \uB3D9\uD3EC\uB4E4\uC744 \uBB34\uCC38\uD788 \uC9D3\uBC1F\uC544 \uBC84\uB9B0
+      \uADF8 \uC7AC\uC559\uC774\uB0D0!"
+    spriteID: Cat
+  - name: "\uC708\uB514"
+    talk: "\uC544 \uD55C \uB188 \uB0A8\uC558\uC5C8\uB124."
+    spriteID: Talker5
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uB0B4 \uC774\uB984\uC740 \uD0A4\uD2F0\uD074\uB85C. \uACE0\uC591\uC774\uC9C0."
+    spriteID: Cat
+  - name: "\uC5D0\uBC00\uB9AC"
+    talk: "\uC74D\uC74D\uC74D"
+    spriteID: Emilie3
+  - name: "\uC708\uB514"
+    talk: "\uC5D0\uBC00\uB9AC! \uAD1C\uCC2E\uC544?"
+    spriteID: Talker4
+  - name: "\uC708\uB514"
+    talk: "\uC774 \uC794\uC778\uD55C \uB140\uC11D\uB4E4 \uC5D0\uBC00\uB9AC\uC5D0\uAC8C
+      \uBB34\uC2A8 \uC9D3\uC744 \uD55C\uAC70\uC57C! "
+    spriteID: Talker4
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uB09C \uBB34\uC2DC\uBB34\uC2DC\uD55C \uB3D9\uBB3C\uC774\uB2E4! \uC6B0\uB9AC
+      \uB3D9\uD3EC\uB97C \uACF5\uACA9\uD558\uB294 \uC790\uB4E4\uC740 \uB204\uAD6C\uB3C4
+      \uC6A9\uC11C\uD558\uC9C0 \uBABB\uD574!"
+    spriteID: Cat
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uB124\uB188\uC758 \uC57D\uC810\uC774 \uC774 \uC18C\uB140 \uC778\uAC74
+      \uC774\uBBF8 \uC54C\uACE0 \uC788\uC9C0.  \uC9C0\uAE08\uBD80\uD130 \uC6C0\uC9C1\uC774\uBA74
+      \uC774 \uC18C\uB140\uB97C \uBB34\uC2DC\uBB34\uC2DC\uD55C \uBB3C \uC18D\uC5D0
+      \uB358\uC838\uBC84\uB9AC\uACA0\uB2E4! \uAF3C\uC9DD\uB9C8\uB77C. "
+    spriteID: Cat
+  - name: "\uC5D0\uBC00\uB9AC"
+    talk: "\uC74D\uC74D\uC74D (\uB098 \uC218\uC601\uD560 \uC904 \uC544\uB294\uB370\u2026\u2026.) "
+    spriteID: Emilie3
+  - name: "\uC708\uB514"
+    talk: "\uC774 \uC794\uC778\uD55C \uB140\uC11D! \uC5D0\uBC00\uB9AC\uC5D0\uAC8C
+      \uADF8\uB7F0 \uC9D3\uC744 \uD558\uB824\uD558\uB2E4\uB2C8."
+    spriteID: Talker4
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uC790 \uAC04\uB2E4 \uAC01\uC624\uD574\uB77C!"
+    spriteID: Cat
+  - name: "\uC708\uB514"
+    talk: "\uC73C\uC545! "
+    spriteID: Talker4
+  - name: "\uC5D0\uBC00\uB9AC"
+    talk: '!!!!!'
+    spriteID: Emilie3
+  - name: "\uC708\uB514"
+    talk: "\uC5D0\uBC00\uB9AC \uC548\uB3FC!"
+    spriteID: Talker4
+  - name: "\uD0A4\uD2F0\uD074\uB85C"
+    talk: "\uC81C \uBC1C\uB85C \uBB3C\uC5D0 \uBE60\uC9C0\uB2E4\uB2C8. \uBB34\uC2DC\uBB34\uC2DC\uD55C
+      \uC18C\uB140\uC600\uAD6C\uB9CC."
+    spriteID: Cat
+  - name: "\uC708\uB514"
+    talk: "\u2026\u2026"
+    spriteID: Talker4
+  - name: "\uC708\uB514"
+    talk: "\uB124 \uC774\uB188 \uC808\uB300 \uC6A9\uC11C \uBABB\uD55C\uB2E4. \uB10C
+      \uC774\uC81C \uB4A4\uC84C\uB2E4! "
+    spriteID: Talker4

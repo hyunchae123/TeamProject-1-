@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f08e7fa7ab613344fa9fdb7ed6a803ea, type: 3}
+  m_Name: TalkBundle35
+  m_EditorClassIdentifier: 
+  talks:
+  - name: "\uC708\uB514"
+    talk: "\uC5D0\uBC00\uB9AC!!!! \uC624 \uB098\uC758 \uC544\uC778\uC774\uC5EC."
+    spriteID: Talker4
+  - name: "\uC5D0\uBC00\uB9AC"
+    talk: "\uC57C \uD639\uC2DC \uC6B0\uB0D0?"
+    spriteID: Emilie
+  - name: "\uC708\uB514"
+    talk: "\uC5D0\uBC00\uB9AC!!! \uC8FD\uC740 \uAC70 \uC544\uB154\uC5B4?"
+    spriteID: Talker4
